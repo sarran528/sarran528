@@ -14,6 +14,7 @@ Full Stack Developer - | SaaS Platforms | Modern Web Experiences | Web Games | M
 <br />
 <hr>
 <!--   Stats -->
+
 ### ɢɪᴛʜᴜʙ sᴛᴀᴛs
 ![Sarran's github stats](https://github-readme-stats.vercel.app/api?username=sarran528&theme=nord&show_icons=true&count_private=true)
 <hr>
@@ -35,6 +36,7 @@ Full Stack Developer - | SaaS Platforms | Modern Web Experiences | Web Games | M
 </table>
 <hr>
 <!--   GitHub stats graph -->
+
 ### ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarran528&theme=github)](https://github.com/sarran528)
 
