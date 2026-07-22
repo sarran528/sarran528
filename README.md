@@ -13,12 +13,7 @@ Full Stack Developer - | SaaS Platforms | Modern Web Experiences | Web Games | M
 ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-CFD3D3?style=flat-square&logo=ClipStudioPaint&logoColor=black)
 <br />
 <hr>
-<!--   Stats -->
 
-### ɢɪᴛʜᴜʙ sᴛᴀᴛs
-![Sarran's github stats](https://github-readme-stats.vercel.app/api?username=sarran528&theme=nord&show_icons=true&count_private=true)
-<hr>
-<!--   Top Languages Using -->
 ### ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇs ᴜsᴇᴅ
 
 <table>
