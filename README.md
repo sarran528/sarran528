@@ -29,13 +29,7 @@ Full Stack Developer - | SaaS Platforms | Modern Web Experiences | Web Games | M
 </td>
 </tr>
 </table>
-<!-- <hr>
-<!--   GitHub stats graph -->
 
-### ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarran528&theme=github)](https://github.com/sarran528)
-
-<br> -->
 <hr>
 <div align="center">
 <h3><b>ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</b></h3>
