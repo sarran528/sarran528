@@ -4,7 +4,7 @@ Full Stack Developer - | SaaS Platforms | Modern Web Experiences | Web Games | M
 
 ### ʟᴀɴɢᴜᴀɢᴇs & ᴛᴏᴏʟs
 
-![Skills](https://skillicons.dev/icons?i=java,js,ts,react,nodejs,threejs,mongodb,mysql,postgres,spring,git,github,linux)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,postgres,threejs,java,mysql,spring,git,github,linux)
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
